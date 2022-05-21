@@ -1,0 +1,20 @@
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\GDC Arac Kiralama.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\GDC Arac Kiralama.exe
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\bin\Debug\GDC Arac Kiralama.pdb
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csprojAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.aracdüzenleme.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.araclarılistele.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.bosaraclar.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.doluaraclar.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.Form2.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.giderişlemleri.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kasa.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.kullanıcılarıdüzenle.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.sözlesmelerilistele.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent_A_Car_Araç_Kiralama_Otamasyon.yenisözlesme.resources
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\Rent A Car Araç Kiralama Otamosyon.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\GDC Arac Kiralama.exe
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\GDC Arac Kiralama.pdb
+C:\Users\bilal\OneDrive\Masaüstü\GDC Team Araç Kiralama\Rent A Car Araç Kiralama Otamasyon\Rent A Car Araç Kiralama Otamasyon\obj\Debug\GDC_Arac_Kiralama.Properties.Resources.resources
